@@ -1,16 +1,3 @@
-Nice — you’ve built something *real*.
-I’ll do this in two parts:
-
-1. **A clean, professional `README.md`** you can actually show
-2. **What the next step should be (and why that one)**
-
----
-
-## 1️⃣ `README.md`
-
-You can copy-paste this directly.
-
-```md
 # URL Shortener (Scalable Backend Project)
 
 A production-style URL shortener built to learn **backend engineering, system design, and scalability** — not just CRUD.
